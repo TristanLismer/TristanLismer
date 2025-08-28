@@ -2,7 +2,7 @@
 
 My name is Tristan, I am currently pursuing a PhD in Quantum Optics at the Institute for Quantum Computing.
 
-Here is our most recent publication where we used machine learning and a Generalized Probability Theory to test whether or not tomographic locality is a fundamental part of nature!
+Here is our most recent publication where we used machine learning and a Generalized Probability Theory to test whether or not tomographic locality is a fundamental aspect of nature!
 https://arxiv.org/pdf/2506.07775
 
 <!--
