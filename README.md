@@ -1,4 +1,9 @@
-## Hi there 👋
+## Bonjour👋
+
+My name is Tristan, I am currently pursuing a PhD in Quantum Optics at the Institute for Quantum Computing.
+
+Here is our most recent publication where we used machine learning and a Generalized Probability Theory to test whether or not tomographic locality is a fundamental part of nature!
+https://arxiv.org/pdf/2506.07775
 
 <!--
 **TristanLismer/TristanLismer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
